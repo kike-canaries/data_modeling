@@ -1,0 +1,6 @@
+# Notebook backups
+Notebooks/.ipynb_checkpoints/*
+
+# Datasets
+Data/*
+
