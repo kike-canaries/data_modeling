@@ -1,0 +1,7 @@
+jupiter
+pandas
+scipy
+matplotlib
+statsmodels
+sklearn
+plotly
